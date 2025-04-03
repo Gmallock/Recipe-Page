@@ -4,7 +4,7 @@ Esta é a solução do desafio "Recipe Page" do [Frontend Mentor](https://www.fr
 
 ## 📸 Captura de Tela
 
-![Recipe Page Screenshot]([./image.png](https://ibb.co/ycW9TFPQ))  
+![Recipe Page Screenshot]([image.png](https://ibb.co/ycW9TFPQ))  
 
 ## 🔗 Links
 
