@@ -1,10 +1,7 @@
 # Recipe Page
 
 Esta é a solução do desafio "Recipe Page" do [Frontend Mentor](https://www.frontendmentor.io/). O desafio propõe criar uma página de receita responsiva para praticar habilidades de HTML e CSS.
-
-## 📸 Captura de Tela
-
-![Recipe Page Screenshot]([image.png](https://ibb.co/ycW9TFPQ))  
+ 
 
 ## 🔗 Links
 
