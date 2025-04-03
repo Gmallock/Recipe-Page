@@ -1,0 +1,158 @@
+body {
+    margin: 0;
+    padding: 0;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    min-height: 100vh;
+    background-color: hsl(30, 54%, 90%);
+   
+}
+
+main {
+    border-radius: 15px;
+    max-width: 720px;
+    width: 90%;
+    margin: 4% auto;
+    background-color: white;
+    padding: 20px;
+}
+
+main img {
+    width: 100%;
+    height: auto;
+    border-radius: 15px;
+    align-items: center;
+}
+
+
+h1 {
+    font-family: 'Young Serif', serif;
+    color: rgb(47, 44, 43);
+    font-weight: 400;
+}
+
+
+
+
+p {
+    font-family: 'outfit', sans-serif;
+    font-size: 16;
+    color: rgb(78, 70, 60);
+    font-weight: 400
+}
+
+
+
+
+
+.preparation-time {
+    background-color: rgb(255, 245, 250);
+    border-radius: 15px;
+    padding-top: 1%;
+    padding-bottom: 1%;
+    margin-top: 5%;
+    font-weight: 600;
+}
+
+h3 {
+    font-family: 'outfit', sans-serif;
+    color: rgb(142, 40, 93);
+    margin-left: 5%;
+}
+
+.preparation-time ul {
+    margin-left: 4%;
+    font-weight: 400;
+}
+
+li {
+    font-family: 'outfit', sans-serif;
+    color: rgb(78, 70, 60);
+}
+
+.preparation-time ul li {
+    text-indent: 1%;
+    margin-bottom: 1%;
+}
+
+.preparation-time ul li::marker {
+    color: rgb(142, 40, 93);
+}
+
+
+
+
+.ingredients ul {
+    padding-left: 2%;
+    font-weight: 400;
+}
+
+.ingredients ul li {
+    text-indent: 1%;
+    margin-bottom: 1.5%;
+    
+}
+.ingredients ul li::marker{
+    color: rgb(123, 63, 51);
+}
+
+
+
+h2 {
+    font-family: 'Young Serif', serif;
+    color: rgb(123, 63, 51);
+    font-weight: 400;
+}
+
+
+
+.instructions ol {
+    padding-left: 2%;
+    font-weight: 400;
+}
+
+ol li::marker {
+    color: rgb(123, 63, 51);
+    font-weight: bold;
+}
+
+.instructions ol li {
+    text-indent: 1%;
+    margin-bottom: 2%;
+}
+
+
+
+
+table {
+    width: 100%;
+    border-collapse: collapse;
+}
+
+th,
+td {
+    border-bottom: 1px solid rgb(222, 215, 207);
+    padding: 8px;
+    text-align: left;
+}
+
+td {
+    color: rgb(123, 63, 51);
+    font-weight: bold;
+    font-family: 'outfit', sans-serif;
+}
+
+th {
+    color: rgb(78, 70, 60);
+    font-family: 'outfit', sans-serif;
+    font-weight: 400;
+}
+
+hr {
+    border: none;
+    height: 1px;
+    background-color:  rgb(222, 215, 207);
+    width: 100%;
+    margin: auto;
+}
